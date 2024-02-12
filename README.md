@@ -1,7 +1,7 @@
 Bellabeat Case Study
 The below Data Sets are used.
 Fitbase: https://www.kaggle.com/datasets/arashnic/fitbit
-DataSet1: https://www.kaggle.com/datasets/parulgarg123/mi-fitbit-dataset
+DataSet1: https://www.kaggle.com/datasets/parulgarg123/mi-fitbit-datasetMMmm
 Dataset2:  https://www.kaggle.com/datasets/damirgadylyaev/more-than-4-years-of-steps-and-sleep-data-mi-band
 Tools Used
 Microsoft Excel and Microsoft SQL Server. Data Visualization is done in Tableau
